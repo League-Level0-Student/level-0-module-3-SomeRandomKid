@@ -5,6 +5,9 @@
 package elseif;
 
 import javax.swing.JOptionPane;
+
+import org.jointheleague.graphical.robot.Robot;
+
 import java.awt.Color;
 
 public class RobotColorChooser {
@@ -21,7 +24,8 @@ public class RobotColorChooser {
 		//2. set the pen width to 10
 		
 	    //1. make the robot draw a shape (this will take more than one line of code)
-
+		Robot poop = new Robot();
+		poop.Pendown
 
 	}
 }
